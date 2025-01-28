@@ -53,6 +53,17 @@ a:hover {
   background-color: white;
 }
 
+.message-container {
+  height: 100%;
+  display: block;
+  color: blue;
+  background-color: blanchedalmond;
+  padding: 20px;
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
 @media (max-width: 768px) {
   .hambarg {
     display: block;

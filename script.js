@@ -1,6 +1,5 @@
 const hambarg = document.querySelector(".hambarg");
 const navMenu = document.querySelector(".nav-menu");
-
 hambarg.addEventListener("click", () => {
   hambarg.classList.toggle("active");
   navMenu.classList.toggle("active");
